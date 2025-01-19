@@ -1,0 +1,7 @@
+.content{
+    grid-area: content;
+padding: 20px;
+    background-color: #F5F5F5;
+    color: black;
+
+}
